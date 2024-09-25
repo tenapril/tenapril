@@ -52,5 +52,4 @@ I’m always open to new challenges and collaboration opportunities. Let’s bui
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tenapril&show_icons=true&count_private=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tenapril&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
