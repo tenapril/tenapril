@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Andrew Tirto Kusumo!
 
-A **Data Engineer Manager** with a passion for **making teams work faster and better** by building efficient data pipelines and creating scalable data solutions. I enjoy **analyzing and wrangling data** to drive actionable insights, while constantly improving processes and tools. 
+A **Data Engineer** with a passion for **making teams work faster and better** by building efficient data pipelines and creating scalable data solutions. I enjoy **analyzing and wrangling data** to drive actionable insights, while constantly improving processes and tools. 
 
 With extensive experience across various technologies such as **Google BigQuery, DBT, Apache Beam, AWS, GCP, Docker, Airflow, and more**, I’ve developed streaming pipelines from scratch, optimized data warehouses, and led engineering teams to success.
 
