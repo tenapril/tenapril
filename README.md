@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Andrew Tirto Kusumo!
 
-**[Online Portofolio CV](https://definitelynot.my.id/):**
+**[Online Portofolio CV](https://definitelynot.my.id/)**
 
 
 A **Data Engineer** with a passion for **making teams work faster and better** by building efficient data pipelines and creating scalable data solutions. I enjoy **analyzing and wrangling data** to drive actionable insights, while constantly improving processes and tools. 
