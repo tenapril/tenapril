@@ -20,7 +20,21 @@ With extensive experience across various technologies such as **Google BigQuery,
 - **Leadership:** Team management, career development, hiring
 
 ### 📊 Projects & Achievements
-#### Flip.id (2021 - Present) | Data Engineer Manager
+#### Funding Societies (Nov 2024 - Present) | Senior Data Engineer
+- Optimized ETL pipeline layers from **4 hours to 2.5 hours** per run (~37.5% improvement).
+- Led the Finance & Risk DE Team to generate reports for Finance Closing, FP&A, ECL, and Regulatory Reports.
+- Handling critical pipelines shared via **Snowflake SharedDB** to key external partners.
+- Acting as sprint leader, bridging DA requirements to the DE Team.
+- Migrating legacy pipelines to a more sustainable approach using **ECS**.
+- Maintaining and optimizing Snowflake costs with plans for further reduction.
+
+#### Paper.id (May 2024 - Oct 2024) | Senior Data Engineer
+- Built a **streaming pipeline from scratch** using Google Datastream, Pub/Sub, and Dataflow to ingest data from App DB to BigQuery.
+- Fixed existing dbt ELT inefficiencies, improving development time by **~100%**.
+- Reduced BigQuery costs by **~20% per month** through targeted optimization.
+- Created a **cost management dashboard** tracking project-level spend daily.
+
+#### Flip.id (Sep 2021 - May 2024) | Data Engineer Manager
 - Developed a **real-time streaming pipeline** from scratch using **Google Datastream, Pub/Sub, and Dataflow**, enabling seamless data ingestion from application databases to BigQuery.
 - Implemented an **end-to-end ELT pipeline** with **DBT**, including testing and query dependencies, reducing **BigQuery costs by 20%** through optimized partitioning and clustering.
 - Led the Data Engineering team by creating **job descriptions, career frameworks, entry tests**, and interview processes, successfully hiring a new team from zero.
