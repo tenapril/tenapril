@@ -9,10 +9,13 @@ With extensive experience across various technologies such as **Google BigQuery,
 
 ## 🛠️ Skills & Expertise
 
-- **Data Engineering:** ELT/ETL pipelines, real-time streaming, data warehousing, data modeling
-- **Cloud Platforms:** Google Cloud, AWS, Alibaba, Azure Machine Learning
-- **Tools & Technologies:** DBT, Apache Beam, Airflow, Docker, Datastream, Pub/Sub
-- **Languages:** Python, SQL, R, Java, C++, PHP, Assembly
+- **Data Engineering:** ELT/ETL pipelines, real-time streaming (CDC), data warehousing, data modeling
+- **Cloud Platforms:** Google Cloud (BigQuery, Dataflow, GCS, CloudSQL), AWS (Glue, Redshift, S3, EMR), Alibaba, Azure Machine Learning
+- **Tools & Technologies:** dbt, Apache Beam, Airflow, Snowflake, QLIK, Docker, Datastream, Pub/Sub, Dataflow, FastAPI, Spark, Kafka, ArangoDB, CircleCI, GitLab CI, Ansible
+- **Data Modeling:** dbt, Data Vault, Star Schema
+- **Databases:** PostgreSQL, MySQL, MongoDB, Cassandra, DynamoDB
+- **DevOps / Infra:** Docker, Kubernetes, Terraform, CI/CD
+- **Languages:** Python, SQL, Scala, R, Java, C++, PHP, Assembly
 - **Machine Learning:** Feature engineering, model deployment, predictive modeling
 - **Leadership:** Team management, career development, hiring
 
